@@ -1,3 +1,1 @@
-# alu-shell
-
-Shell scripting projects: init files, variables and expansions.
+Shell project: init files, variables and expansions
